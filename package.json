@@ -1,0 +1,22 @@
+{
+  "name": "serve_js_dockerfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salpadding/serve_js_dockerfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salpadding/serve_js_dockerfile/issues"
+  },
+  "homepage": "https://github.com/Salpadding/serve_js_dockerfile#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
